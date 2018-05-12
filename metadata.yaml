@@ -1,0 +1,29 @@
+_repo: The-Executioner_32087
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Riley, Frank
+    alias: Rhylick, Frank Wilbert
+    birthdate: 1915
+    deathdate: 1996
+    gutenberg_agent_id: '35656'
+    url: http://www.gutenberg.org/2009/agents/35656
+description: ''
+gutenberg_issued: '2010-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32087'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Executions and executioners -- Fiction'
+- !lcsh 'Short stories'
+title: The Executioner
+url: http://www.gutenberg.org/ebooks/32087
